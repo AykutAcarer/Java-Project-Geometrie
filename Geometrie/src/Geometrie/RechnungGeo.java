@@ -1,5 +1,8 @@
 package Geometrie;
-
+/**
+ * @author Aykut Acarer
+ * 
+ */
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
